@@ -18,7 +18,7 @@ Example
 
 In the first line of the output, the game is in Italy for the Serie A, kick-off at 19:00, playing the 47th minute, Napoli(home-team) 1 - 0 AS Roma(away-team)
 
-##Usage
+## Usage
 
 
 ```
