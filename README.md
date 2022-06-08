@@ -26,5 +26,5 @@ $ git clone https://github.com/aissa-laribi/livescore.git
 $ python3 -m venv venv
 $ source venv/bin/activate
 $ pip install scrapy
-$ scrapy runspider main.py -O output.jl
+$ scrapy runspider main.py -s FEED_EXPORT_ENCODING=utf8 -O output.jl
 ```
